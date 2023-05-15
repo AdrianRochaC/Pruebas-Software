@@ -8,3 +8,4 @@ Una prueba de software es un proceso al que se someten los códigos para así en
 Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, agiles, de automatización, entre otros. Mencionaremos algunas de las pruebas que se realizan:
 
 #### + Prueba Alfa
+- hola
