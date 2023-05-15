@@ -25,6 +25,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Pruebas de accesibilidad
    * Determina y revisa si el software se hizo con una ruta hacia las personas con discapacitación (sordos, mudos, etc).
 
+![](https://qalified.com/wp-content/uploads/2021/12/diseno-y-desarrollo-de-webs-accesibles-accesibilidad-web.png)
+
 #### Prueba Beta
    * Esta prueba es una de caracter mas formal, igual que la prueba de aceptación; esta la realiza el cliente, probando el            software en un ambiente real, para asi detectar si hay algún fallo importante antes de ser lanzado al publico real.
 
