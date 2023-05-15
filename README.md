@@ -15,6 +15,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Prueba de aceptación
    * En esta prueba el cliente es quien realiza la prueba y así verifica el flujo de extremo a extremo según los requerimientos        comerciales.
 
+![](https://www.nimblework.com/wp-content/uploads/2022/12/software-testing.jpg)
+
 #### Pruebas Ad-hoc
    * La función de esta prueba es detectar problemas que pueden estar presentes y romper la aplicación usando cualquier tipo de        flujo de la aplicación.
 
