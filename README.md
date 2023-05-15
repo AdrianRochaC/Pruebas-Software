@@ -29,6 +29,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 
 #### Prueba Beta
    * Esta prueba es una de caracter mas formal, igual que la prueba de aceptación; esta la realiza el cliente, probando el            software en un ambiente real, para asi detectar si hay algún fallo importante antes de ser lanzado al publico real.
+ 
+![](https://thumbs.dreamstime.com/b/ejemplo-de-prueba-beta-del-vector-concepto-hombres-negocios-min-sculos-con-los-dispositivos-digitales-que-prueban-software-la-148794431.jpg)
 
 #### Prueba de fondo
    * Esta es una prueba que se realiza en las bases de datos, estas prueban llevan a cabo test de estructura de tabla, estructura      de datos, etc.
