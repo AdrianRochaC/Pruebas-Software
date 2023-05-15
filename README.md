@@ -20,6 +20,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Pruebas Ad-hoc
    * La función de esta prueba es detectar problemas que pueden estar presentes y romper la aplicación usando cualquier tipo de        flujo de la aplicación.
 
+![](https://www.ayscom.com/wordpress/wp-content/uploads/2018/10/medidasadhoc.jpg)
+
 #### Pruebas de accesibilidad
    * Determina y revisa si el software se hizo con una ruta hacia las personas con discapacitación (sordos, mudos, etc).
 
