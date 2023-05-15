@@ -45,4 +45,4 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Prueba de caja negra
    * Se basa en los requisitos que se pidieron y en la funcionalidad del mismo, este a contrario de la caja blanca no se enfoca        en el diseño interno.
 
-
+![](https://4.bp.blogspot.com/-V_13eBC1IEM/Uge4Z3rrr4I/AAAAAAAAAKI/TsEp5Br537k/s1600/CajaNegra.png)
