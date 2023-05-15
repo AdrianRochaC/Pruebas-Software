@@ -10,7 +10,7 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
  #### Prueba Alfa
    * Esta es la prueba mas utilizada, esta es la encargada de detectar todos los posibles problemas o defectos que tenga el              producto antes de ser lanzado al mercado; esta prueba se hace al final de la fase de desarrollo.
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20190417162607/Capture888899.jpg)
+        ![](https://media.geeksforgeeks.org/wp-content/uploads/20190417162607/Capture888899.jpg)
 
 #### Prueba de aceptación
    * En esta prueba el cliente es quien realiza la prueba y así verifica el flujo de extremo a extremo según los requerimientos        comerciales.
