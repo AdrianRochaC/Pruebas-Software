@@ -35,6 +35,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Prueba de fondo
    * Esta es una prueba que se realiza en las bases de datos, estas prueban llevan a cabo test de estructura de tabla, estructura      de datos, etc.
 
+![](https://thumbs.dreamstime.com/b/pruebas-de-software-con-ilustraciones-vectoriales-dibujos-animados-computadoras-escritorio-aisladas-banner-prueba-computadora-y-211928526.jpg)
+
 #### Pruebas de compatibilidad del navegador
    * Es un subtipo de las pruebas de compatibilidad y esta lo que hace es que garantiza que el software pueda ejecutarse con la        combinación de diferentes operativos y navegadores.
 
