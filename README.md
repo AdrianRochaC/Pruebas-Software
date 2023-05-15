@@ -40,6 +40,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Pruebas de compatibilidad del navegador
    * Es un subtipo de las pruebas de compatibilidad y esta lo que hace es que garantiza que el software pueda ejecutarse con la        combinación de diferentes operativos y navegadores.
 
+![](https://comparium.app/images/upload/articles/testing_checklist/testing-compatibility.png)
+
 #### Prueba de caja negra
    * Se basa en los requisitos que se pidieron y en la funcionalidad del mismo, este a contrario de la caja blanca no se enfoca        en el diseño interno.
 
