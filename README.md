@@ -55,4 +55,9 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Prueba de rama
    * Tambien conocida como la prueba de caja blanca, esta se ejecuta en la prueba de unidad; su nombre se da devido a que se          revisa a fondo el producto pasando por cada una de sus "ramas".
 
+![](https://3.bp.blogspot.com/-ije1wguyYfo/UWjZcE_0bLI/AAAAAAAABfU/51livGv3mBY/s1600/caja+blanca.jpg)
+
+#### Prueba de comparación
+   * Esta prueba comprara tanto los defectos y debilidades del producto con sus versiones anteriores o productos similares.
+
 ![](
