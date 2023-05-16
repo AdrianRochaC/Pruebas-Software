@@ -60,4 +60,6 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Prueba de comparación
    * Esta prueba comprara tanto los defectos y debilidades del producto con sus versiones anteriores o productos similares.
 
-![](
+![](https://static.vecteezy.com/system/resources/previews/005/648/540/non_2x/comparison-testing-concept-icon-finding-differences-idea-thin-line-illustration-software-testing-process-indicating-issues-and-problems-isolated-outline-drawing-editable-stroke-vector.jpg)
+
+####
