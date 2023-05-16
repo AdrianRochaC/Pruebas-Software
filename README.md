@@ -65,4 +65,6 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
 #### Prueba de compatibilidad
    * Esta evalua como se comporta y se ejecuta el software en un ambiente distinto, harsware, servidores web, entre otros componentes.
 
-![](
+![](https://comparium.app/images/upload/articles/testing-tools/blog-article10-best-cross-browser-testing-tools.png)
+
+
