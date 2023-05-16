@@ -51,3 +51,8 @@ Existen varios tipos de pruebas, entre ellos las funcionales, no funcionales, ag
    * Esta prueba verifica el comportamiento de la aplicación a nivel de límite, se hace para verificar si en los valores límites      existe algun tipo de defecto.
 
 ![](https://www.proydesa.org/portal/images/barriers.jpg)
+
+#### Prueba de rama
+   * Tambien conocida como la prueba de caja blanca, esta se ejecuta en la prueba de unidad; su nombre se da devido a que se          revisa a fondo el producto pasando por cada una de sus "ramas".
+
+![](
