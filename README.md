@@ -5,7 +5,7 @@
 
 
 
-### ¿Qué es?
+### ¿Qué es? ´#0969DA´
 
 Una prueba de software es un proceso al que se someten los códigos para así encontrar defectos, corregirlos y verificar que cumpla con los requisitos que el cliente solicita, y así reducir la posibilidad de que ocurra algún error (no elimina 100% las posibilidades de fallos).
 
